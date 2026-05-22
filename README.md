@@ -48,7 +48,9 @@ confidence: quiet
 
 ---
 
-### 🤝 Connect with Me
-* 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-asghar-b6a419328/)
-* 📧 [E-mail](mailto:moh.abdulah.asghar@gmail.com)
+---
 
+## Connect with me
+
+* **LinkedIn:** [www.linkedin.com/in/abdullah-asghar-b6a419328](https://www.linkedin.com/in/abdullah-asghar-b6a419328)
+* **Email:** [moh.abdulah.asghar@gmail.com](mailto:moh.abdulah.asghar@gmail.com)
