@@ -26,6 +26,11 @@ I prefer understanding things deeply rather than quickly, which sometimes makes 
 
 ---
 
+## 📜 Certifications
+* [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/UNUATTBY3DRA) — Coursera, 2026
+
+---
+
 ## 🚧 Current State
 ```txt
 status:     building
@@ -46,4 +51,4 @@ confidence: quiet
 ### 🤝 Connect with Me
 * 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-asghar)
 * 📧 [E-mail](mailto:moh.abdulah.asghar@gmail.com)
-```
+
